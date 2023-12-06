@@ -1,0 +1,29 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Build directories
+dist/
+build/
+*.egg-info/
+
+# Miscellaneous
+*.swp
+.DS_Store
+
+# Database
+*.sqlite
+*.rar
