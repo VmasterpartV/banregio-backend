@@ -19,6 +19,7 @@ logs/
 dist/
 build/
 *.egg-info/
+venv/
 
 # Miscellaneous
 *.swp
